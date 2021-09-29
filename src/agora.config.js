@@ -1,0 +1,1 @@
+export const AGORA_APP_ID = '38116902f5fa439bbd02729950f2306f' // set your app id here
